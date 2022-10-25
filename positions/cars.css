@@ -1,0 +1,33 @@
+
+.bdy{height: 100%;
+     width: 100%;
+     background-color:antiquewhite;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.child{
+    border: 1px solid bisque;
+    height: 46vh;
+    width: 25%;
+}
+.img{
+    height: 80%;
+    width: 100%;
+}
+.details{
+text-align:center;   
+}
+
+.button{
+    color: tomato;
+}
+.font{
+    font-family: 'Audiowide', cursive;;
+    color: rgb(255, 1, 234);
+    background-color: yellow;
+}

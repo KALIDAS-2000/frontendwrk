@@ -1,0 +1,42 @@
+.kk{
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    background-color: yellow;
+    border-radius: 80%;
+}
+
+/* biodata */
+
+/* .parent{
+    height: 500px;
+    width: 90%;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.child{
+    background-color: tomato;
+    border: 1px solid black;
+
+}
+
+.o1{background-color: blue;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    display: flex;
+}
+
+.o2{background-color: rgb(19, 231, 72);}
+
+.o3{background-color: rgb(194, 33, 33);}
+
+.o4{background-color: rgb(185, 25, 87);}
+
+.img{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+} */

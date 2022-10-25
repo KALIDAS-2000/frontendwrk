@@ -1,0 +1,29 @@
+.parent{
+    height: 500px;
+    width: 90%;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+
+.o1{background-color: rgb(141, 141, 233);
+    border: 1px solid black;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+
+.o2{background-color: rgb(126, 193, 255);}
+
+.o3{background-color: rgb(126, 193, 255);}
+
+.o4{background-color: rgb(126, 193, 255);}
+
+
+.ima{
+    border: 2px solid rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}

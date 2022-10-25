@@ -1,0 +1,29 @@
+.parent{
+    height: 500px;
+    width: 90%;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.child1{
+    border: 1px solid red;
+
+}
+
+.img{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.det{margin-top: 25px; margin-left: 10px}
+.mail{margin-top: 10px;}
+.name{margin-left: 600px; block-size: 100PX;}
+.pro{margin-top: 10px; margin-left: 10px;}
+.main{margin-top: 30px; margin-left: 10px;}
+.lname{text-align: center;}

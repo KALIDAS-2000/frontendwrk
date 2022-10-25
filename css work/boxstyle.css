@@ -1,0 +1,22 @@
+.child{
+    height: 200px;
+    width: 400px;
+    color: white;
+}
+
+.child-1{
+    background-color: brown;
+}
+
+.child-2{
+    background-color: aquamarine;
+    color: red;
+}
+.child-3{
+    background-color:blueviolet;
+}
+.all{
+    background-color: green;
+    height:700px ;
+    width: 600px;
+}

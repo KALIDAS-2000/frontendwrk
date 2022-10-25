@@ -1,0 +1,51 @@
+.s-square{
+    height: 60px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.body{background-color: black;}
+.a{float:left }
+.b{float: left}
+.c{float: left}
+
+.first{
+    display: flex;
+    justify-content:center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+}
+.third{
+    display: flex;
+    justify-content: center;
+}
+
+.aa{background-color: rgb(51, 47, 45);}
+.bb{background-color: rgba(54, 151, 75, 0.575);}
+.cc{background-color: rgb(32, 219, 94);}
+.dd{background-color: rgb(30, 255, 0);}
+.ee{background-color: rgb(241, 240, 236);}
+.ff{background-color: rgb(255, 137, 2);}
+.gg{background-color: rgb(255, 104, 104);}
+.hh{background-color: rgb(214, 80, 91);}
+.ii{background-color: rgb(44, 71, 131);}
+.jj{background-color: rgb(0, 16, 241);}
+.kk{background-color: rgb(128, 90, 235);}
+.ll{background-color: rgb(104, 101, 96);}
+.mm{background-color: rgb(219, 160, 32);}
+.nn{background-color: rgb(72, 160, 241);}
+.oo{background-color: rgb(227, 255, 70);}
+.pp{background-color: rgb(255, 185, 79);}
+.qq{background-color: rgb(255, 0, 179);}
+.rr{background-color: rgb(68, 47, 0);}
+.ss{background-color: rgb(81, 191, 255);}
+.tt{background-color: rgb(66, 242, 248);}
+.uu{background-color: rgb(56, 40, 116);}
+
+.hed{
+    font-size:xx-large ;
+    color: aqua;
+    margin-left: 46%;
+}

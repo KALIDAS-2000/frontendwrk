@@ -1,0 +1,29 @@
+.all{
+    height: 50px;
+    width: 100px;
+    border: 2px solid chocolate;
+    padding: 50px;
+    float: left;
+
+}
+
+
+.top{
+    background-color: aqua;
+    /* margin-left:auto;
+    margin-right: auto; */
+    
+}
+
+.bottom{
+    background-color: blueviolet;
+    margin-top: 0px;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+.right{
+    background-color: blueviolet;
+    margin-top: 0px;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
